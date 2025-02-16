@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn.discordapp.com/attachments/1292395158717075466/1340748293868752897/asS.jpg?ex=67b37ca7&is=67b22b27&hm=25fc9df6d3c2910520990f1150fd2e7c258876c32799c6e636394f07b9b7cc11&)
+![MasterHead](https://cdn.discordapp.com/attachments/1292395158717075466/1340748293868752897/asS.jpg?ex=67b37ca7&is=67b22b27&hm=25fc9df6d3c2910520990f1150fd2e7c258876c32799c6e636394f07b9b7cc11&)
 <h1 align="center">Hi 👋, I'm CRTYPUBG</h1>
 <h3 align="center">A passionate frontend developer from Türkkiye</h3>
 
