@@ -1,4 +1,4 @@
-![MasterHead](http://help.speedloopp.rf.gd/masthead-master/)
+![MasterHead](http://help.speedloopp.rf.gd/masthead-master)
 
 <h1 align="center">Hi 👋, I'm CRTYPUBG</h1>
 <h3 align="center">Turning ideas into code | Frontend Developer from Türkiye</h3>
