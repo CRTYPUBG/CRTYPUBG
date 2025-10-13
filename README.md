@@ -6,20 +6,20 @@
 ---
 
 ### 🔭 Current Project
-- Working on **[SpeedLoop](https://github.com/yourusername/speedloop)** – a fast and fun project for gamers.
+- Working on **[SpeedLoop](https://github.com/CRTYPUBG/SpeedLoop-Emulator)** – a fast and fun project for gamers.
 
 ---
 
 ### 💖 Sponsors
-<a href="https://github.com/sponsors/username1"><img src="https://img.shields.io/badge/Sponsor-Name1-blue?style=flat-square" /></a>
-<a href="https://github.com/sponsors/username2"><img src="https://img.shields.io/badge/Sponsor-Name2-red?style=flat-square" /></a>
+<a href="https://github.com/sponsors/Kodla-devs"><img src="https://avatars.githubusercontent.com/u/176048354?s=200&v=4" /></a>
+<a href="https://github.com/sponsors/SpeedLoop"><img src="https://avatars.githubusercontent.com/u/221162046?s=200&v=4" /></a>
 
 ---
 
 ### 🤝 Thanks to
-<a href="https://github.com/helper1"><img src="https://github.com/helper1.png" width="50" height="50" /></a>
-<a href="https://github.com/helper2"><img src="https://github.com/helper2.png" width="50" height="50" /></a>
-<a href="https://github.com/helper3"><img src="https://github.com/helper3.png" width="50" height="50" /></a>
+<a href="https://github.com/AydoganCan60"><img src="https://avatars.githubusercontent.com/u/129807220?v=4" width="50" height="50" /></a>
+<a href="https://github.com/Mirmir0kodla"><img src="https://avatars.githubusercontent.com/u/233357314?v=4" width="50" height="50" /></a>
+<a href="https://github.com/mrcbrbn5361"><img src="https://avatars.githubusercontent.com/u/51040879?v=4" width="50" height="50" /></a>
 
 ---
 
