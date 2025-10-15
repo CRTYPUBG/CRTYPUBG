@@ -1,4 +1,4 @@
-![MasterHead](http://help.speedloopp.rf.gd/masthead-master/index.html)
+<img src="http://help.speedloopp.rf.gd/masthead-master/assets/image.png" alt="MasterHead">
 
 <h1 align="center">Hi 👋, I'm CRTYPUBG</h1>
 <h3 align="center">Turning ideas into code | Frontend Developer from Türkiye</h3>
