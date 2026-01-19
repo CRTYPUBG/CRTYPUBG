@@ -54,7 +54,7 @@
 ### 📫 Contact Me
 <p>
   <a href="mailto:crtypubg1@gmail.com"><img src="https://img.shields.io/badge/Email-crtypubg1@gmail.com-red?style=flat-square" /></a>
-  <a href="https://dev.to/dev.crtypubg"><img src="https://img.shields.io/badge/Dev.to-@dev.crtypubg-blue?style=flat-square" /></a>
+  <a href="https://dev.to/crtypubg"><img src="https://img.shields.io/badge/Dev.to-@dev.crtypubg-blue?style=flat-square" /></a>
   <a href="https://instagram.com/w.kayrax"><img src="https://img.shields.io/badge/Instagram-@w.kayrax-purple?style=flat-square" /></a>
   <a href="https://www.youtube.com/c/@crtypubgm_"><img src="https://img.shields.io/badge/YouTube-@crtypubgm_-red?style=flat-square" /></a>
 </p>
