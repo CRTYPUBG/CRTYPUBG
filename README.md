@@ -1,7 +1,7 @@
 <img src="http://help.speedloopp.rf.gd/masthead-master/images/logo.png" alt="MasterHead">
 
 <h1 align="center">Hi 👋, I'm CRTYPUBG</h1>
-<h3 align="center">Turning ideas into code | Frontend Developer from Türkiye</h3>
+<h3 align="center">Turning ideas into code | Frontend - BackEnd  Developer from Türkiye</h3>
 
 ---
 
