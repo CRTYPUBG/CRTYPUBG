@@ -19,7 +19,7 @@
   <a href="https://instagram.com/w.kayrax">
     <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram" />
   </a>
-  <a href="https://www.youtube.com/c/@crtypubgm_">
+  <a href="https://www.youtube.com/c/@CRTYPUBGM_">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube" />
   </a>
 </p>
