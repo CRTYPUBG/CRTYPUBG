@@ -83,20 +83,17 @@ Fast, optimized and smooth experience project for gamers.
 ---
 
 ## GitHub Stats
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=crtypubg&show_icons=true&theme=dark" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=crtypubg&layout=compact&theme=dark" width="48%" />
 </p>
 
 ---
-
 ## Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=crtypubg&theme=github-compact" />
 </p>
-
 ---
 
 ## Visitors
