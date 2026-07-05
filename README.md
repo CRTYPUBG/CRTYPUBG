@@ -93,15 +93,35 @@ Building AI-powered applications, Windows optimization tools, desktop software, 
 <p align="center">
 
 <a href="https://github.com/crty-dev">
-<img src="https://img.shields.io/badge/CRTY_DEV-181717?style=for-the-badge&logo=github"/>
+  <img src="https://camo.githubusercontent.com/b2b735a0bc9ed207ee92a896ff7e4935a261f13e967a0cfee55dc07ab5f16027/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f617661746172732f313339393530343035383834363431363932372f39363966616235313166343533643735623964336435633737363266353964362e706e67" width="72" alt="CRTY DEV"/>
+</a>
+
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://github.com/Supportly-AI">
+  <img src="https://avatars.githubusercontent.com/u/290173470?s=200&v=4" width="72" alt="Supportly AI"/>
+</a>
+
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://github.com/SpeedLoop">
+  <img src="https://avatars.githubusercontent.com/u/221162046?s=200&v=4" width="72" alt="SpeedLoop"/>
+</a>
+
+</p>
+
+<p align="center">
+
+<a href="https://github.com/crty-dev">
+<img src="https://img.shields.io/badge/CRTY_DEV-111111?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://github.com/Supportly-AI">
-<img src="https://img.shields.io/badge/Supportly_AI-0A84FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Supportly_AI-22C55E?style=for-the-badge&logo=openai&logoColor=white"/>
 </a>
 
 <a href="https://github.com/SpeedLoop">
-<img src="https://img.shields.io/badge/SpeedLoop-16A34A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SpeedLoop-2563EB?style=for-the-badge&logo=windows&logoColor=white"/>
 </a>
 
 </p>
