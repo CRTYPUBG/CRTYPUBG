@@ -91,21 +91,15 @@ Building AI-powered applications, Windows optimization tools, desktop software, 
 ## 🤝 Organizations
 
 <p align="center">
-<a href="https://github.com/crty-dev">
-<img src="https://camo.githubusercontent.com/b2b735a0bc9ed207ee92a896ff7e4935a261f13e967a0cfee55dc07ab5f16027/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f617661746172732f313339393530343035383834363431363932372f39363966616235313166343533643735623964336435633737363266353964362e706e67" width="56" alt="CRTY DEV"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/Supportly-AI">
-<img src="https://avatars.githubusercontent.com/u/290173470?s=200&v=4" width="56" alt="Supportly AI"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/SpeedLoop">
-<img src="https://avatars.githubusercontent.com/u/221162046?s=200&v=4" width="56" alt="SpeedLoop"/>
-</a>
+  <img src="https://github.com/user-attachments/assets/3ff8f8eb-caee-47bb-982d-846375df02e7" width="42" alt="CRTY DEV"/>
+  &nbsp;&nbsp;
+  <img src="https://github.com/user-attachments/assets/7fec99fa-2817-467c-8601-b04d08b4cc34" width="42" alt="Supportly AI"/>
+  &nbsp;&nbsp;
+  <img src="https://github.com/user-attachments/assets/f52383fa-8bdb-4c37-8e78-1555d5f17e34" width="42" alt="SpeedLoop"/>
 </p>
 
 <p align="center">
-<b>CRTY DEV</b> • <b>Supportly AI</b> • <b>SpeedLoop</b>
+  <strong>CRTY DEV</strong> • <strong>Supportly AI</strong> • <strong>SpeedLoop</strong>
 </p>
 
 ---
