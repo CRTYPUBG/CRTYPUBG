@@ -1,103 +1,117 @@
 <p align="center">
-  <img src="http://help.speedloopp.rf.gd/masthead-master/images/logo.png" width="120" />
+  <img src="https://cdn.discordapp.com/avatars/1399504058846416927/969fab511f453d75b9d3d5c7762f59d6.png" width="120" alt="CRTY DEV Logo"/>
 </p>
 
-<h1 align="center">Hi, I'm CRTYPUBG</h1>
-<h3 align="center">Full Stack Developer from Türkiye</h3>
+<h1 align="center">CRTY</h1>
+
+<h3 align="center">
+Founder & Software Engineer @ CRTY DEV
+</h3>
 
 <p align="center">
-  Turning ideas into scalable, fast and user-focused applications.
+Building AI-powered applications, Windows optimization tools, desktop software, and modern web platforms.
 </p>
 
 <p align="center">
-  <a href="mailto:crtypubg1@gmail.com">
-    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" />
+  <a href="https://crty-dev.com">
+    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white"/>
   </a>
-  <a href="https://dev.to/crtypubg">
-    <img src="https://img.shields.io/badge/Dev.to-black?style=for-the-badge&logo=devdotto" />
+  <a href="mailto:info@crty-dev.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://instagram.com/w.kayrax">
-    <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram" />
+  <a href="https://www.youtube.com/@CRTYPUBGM_">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
   </a>
-  <a href="https://www.youtube.com/c/@CRTYPUBGM_">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube" />
+  <a href="https://discord.gg/AX29xBa4tv">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
-</p>
-
----
-
-## About Me
-
-- Full Stack Developer focused on modern web technologies  
-- Building fast, scalable and clean structured applications  
-- Interested in frontend UX & backend performance  
-- Developing tools for developers and gamers  
-
----
-
-## Current Project
-
-### 🚀 SpeedLoop
-Fast, optimized and smooth experience project for gamers.
-
----
-
-## Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,next,nodejs,php,firebase,androidstudio,cs,python" />
-</p>
-
----
-
-## Sponsors
-
-<p align="center">
-  <a href="https://github.com/sponsors/Kodla-devs">
-    <img src="https://avatars.githubusercontent.com/u/176048354?s=200&v=4" width="60"/>
-  </a>
-  <a href="https://github.com/sponsors/SpeedLoop">
-    <img src="https://avatars.githubusercontent.com/u/221162046?s=200&v=4" width="60"/>
-  </a>
-  <a href="https://github.com/sponsors/ospo-community">
-    <img src="https://avatars.githubusercontent.com/u/268378909?s=200&v=4" width="60"/>
+  <a href="https://t.me/+KA9ZLpJDnxoyYjVk">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-## Thanks To
+# 👨‍💻 About Me
+
+- 🚀 Founder of **CRTY DEV**
+- 💻 Full-Stack Software Engineer
+- 🤖 Building AI-powered applications
+- ⚡ Developing Windows optimization & performance tools
+- 🖥️ Creating desktop software and developer utilities
+- 🌐 Building scalable modern web applications
+- ❤️ Passionate about open-source software
+
+---
+
+# 🚀 Featured Projects
+
+- **Supportly AI** — AI-powered customer support platform
+- **SpeedLoop** — Windows optimization ecosystem
+- **Winux** — Native Linux-like utilities for Windows
+- **VScaler** — GPU upscaling & Frame Generation toolkit
+- **Ultimate Optimizer** — Hardware-aware Windows optimizer
+
+---
+
+# 🛠 Tech Stack
 
 <p align="center">
-  <a href="https://github.com/AydoganCan60">
-    <img src="https://avatars.githubusercontent.com/u/129807220?v=4" width="50"/>
-  </a>
-  <a href="https://github.com/Mirmir0kodla">
-    <img src="https://avatars.githubusercontent.com/u/233357314?v=4" width="50"/>
-  </a>
-  <a href="https://github.com/mrcbrbn5361">
-    <img src="https://avatars.githubusercontent.com/u/51040879?v=4" width="50"/>
-  </a>
+<img src="https://skillicons.dev/icons?i=html,css,js,nextjs,nodejs,php,firebase,androidstudio,cs,python,git,github,vscode,visualstudio&perline=7"/>
 </p>
 
 ---
 
-## GitHub Stats
+# 📊 GitHub Statistics
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=crtypubg&show_icons=true&theme=dark" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=crtypubg&layout=compact&theme=dark" width="48%" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=CRTYPUBG&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CRTYPUBG&layout=compact&theme=github_dark&hide_border=true"/>
 </p>
 
 ---
-## Activity
+
+# 🔥 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=crtypubg&theme=github-compact" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=CRTYPUBG&theme=github-dark&hide_border=true"/>
 </p>
+
 ---
 
-## Visitors
+# 👀 Profile Views
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=crtypubg&label=Profile%20Views&color=0e75b6&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=CRTYPUBG&label=Profile%20Views&style=for-the-badge&color=0e75b6"/>
+</p>
+
+---
+
+# 🤝 Organizations
+
+<p align="center">
+
+<a href="https://github.com/crty-dev">
+<img src="https://img.shields.io/badge/CRTY_DEV-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://github.com/Supportly-AI">
+<img src="https://img.shields.io/badge/Supportly_AI-0A84FF?style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/SpeedLoop">
+<img src="https://img.shields.io/badge/SpeedLoop-16A34A?style=for-the-badge"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+⭐ Thanks for visiting my profile.
+
+Building fast, reliable and modern software.
+
 </p>
