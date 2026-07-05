@@ -65,10 +65,9 @@ Building AI-powered applications, Windows optimization tools, desktop software, 
 # 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CRTYPUBG&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=1800" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CRTYPUBG&layout=compact&theme=github_dark&hide_border=true&cache_seconds=1800" height="170" />
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=CRTYPUBG&show_icons=true&theme=github_dark&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=CRTYPUBG&layout=compact&theme=github_dark&hide_border=true" height="170"/>
 </p>
-
 ---
 
 # 🔥 Contribution Graph
