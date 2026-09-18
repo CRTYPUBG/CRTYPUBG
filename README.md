@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://cdn.discordapp.com/avatars/1399504058846416927/969fab511f453d75b9d3d5c7762f59d6.png" width="120" alt="CRTY DEV Logo"/>
-</p>
 
 <h1 align="center">CRTY</h1>
 
