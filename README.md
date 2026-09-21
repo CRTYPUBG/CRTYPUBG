@@ -6,8 +6,6 @@
   />
 </p>
 
-<h1 align="center">CRTY</h1>
-
 <h3 align="center">
 Founder & Software Engineer @ CRTY DEV
 </h3>
