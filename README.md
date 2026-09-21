@@ -1,4 +1,3 @@
-
 <h1 align="center">CRTY</h1>
 
 <h3 align="center">
@@ -19,6 +18,9 @@ Building AI-powered applications, Windows optimization tools, desktop software, 
   <a href="https://www.youtube.com/@CRTYPUBGM_">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
   </a>
+  <a href="https://www.instagram.com/w.kayrax">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
   <a href="https://discord.gg/AX29xBa4tv">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
@@ -37,6 +39,7 @@ Building AI-powered applications, Windows optimization tools, desktop software, 
 - ⚡ Developing Windows optimization & performance tools
 - 🖥️ Creating desktop software and developer utilities
 - 🌐 Building scalable modern web applications
+- 🎮 Background in PUBG Mobile / GameLoop performance tuning
 - ❤️ Passionate about open-source software
 
 ---
@@ -54,7 +57,7 @@ Building AI-powered applications, Windows optimization tools, desktop software, 
 # 🛠 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,nextjs,nodejs,php,firebase,androidstudio,cs,python,git,github,vscode,visualstudio&perline=7"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,nextjs,nodejs,react,electron,php,firebase,androidstudio,cs,dotnet,cpp,rust,python,docker,git,github,vscode,visualstudio&perline=7"/>
 </p>
 
 ---
@@ -62,8 +65,12 @@ Building AI-powered applications, Windows optimization tools, desktop software, 
 # 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=CRTYPUBG&show_icons=true&theme=github_dark&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=CRTYPUBG&layout=compact&theme=github_dark&hide_border=true" height="170"/>
+  <img src="https://github-stats.crty-dev.com/api?username=CRTYPUBG&show_icons=true&theme=github_dark&hide_border=true" height="170"/>
+  <img src="https://github-stats.crty-dev.com/api/top-langs/?username=CRTYPUBG&layout=compact&theme=github_dark&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=CRTYPUBG&hide_border=true&background=142706&border=22540c&ring=67d117&fire=ba9012&currStreakNum=f3f6bd&sideNums=e3d75b&currStreakLabel=78b01a&sideLabels=3c8310&dates=595109" alt="GitHub Streak"/>
 </p>
 
 ---
@@ -71,7 +78,14 @@ Building AI-powered applications, Windows optimization tools, desktop software, 
 # 🔥 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=CRTYPUBG&theme=github-dark&hide_border=true"/>
+<img src="https://github-activity.crty-dev.com/graph?username=CRTYPUBG&theme=github-dark&hide_border=true" width="95%"/>
+</p>
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/CRTYPUBG/CRTYPUBG/output/github-snake.svg"
+    alt="Contribution snake animation"
+  />
 </p>
 
 ---
@@ -81,10 +95,6 @@ Building AI-powered applications, Windows optimization tools, desktop software, 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=CRTYPUBG&label=Profile%20Views&style=for-the-badge&color=0e75b6"/>
 </p>
-
----
-
----
 
 ---
 
@@ -110,5 +120,5 @@ Building AI-powered applications, Windows optimization tools, desktop software, 
 
 <p align="center">
   ⭐ Thanks for visiting my profile.<br>
-  Building fast, reliable and modern software.
+  Build. Optimize. Measure. Improve.
 </p>
