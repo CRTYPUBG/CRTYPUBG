@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e2327,100:0e75b6&height=180&section=header&text=CRTY&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=AI%20Apps%20%E2%80%A2%20Windows%20Optimization%20%E2%80%A2%20Desktop%20%26%20Web&descAlignY=60&descSize=18" width="100%"/>
+</p>
+
 <h1 align="center">CRTY</h1>
 
 <h3 align="center">
@@ -122,3 +126,5 @@ Building AI-powered applications, Windows optimization tools, desktop software, 
   ⭐ Thanks for visiting my profile.<br>
   Build. Optimize. Measure. Improve.
 </p>
+
+https://raw.githubusercontent.com/crtyydk-1/crtyydk-1/output/github-snake.svg
