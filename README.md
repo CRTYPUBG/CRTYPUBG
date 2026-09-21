@@ -87,7 +87,7 @@ Building AI-powered applications, Windows optimization tools, desktop software, 
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/CRTYPUBG/CRTYPUBG/output/github-snake.svg"
+    src="https://raw.githubusercontent.com/CRTYPUBG/CRTYPUBG/output/github-contribution-grid-snake.svg"
     alt="Contribution snake animation"
   />
 </p>
@@ -126,5 +126,3 @@ Building AI-powered applications, Windows optimization tools, desktop software, 
   ⭐ Thanks for visiting my profile.<br>
   Build. Optimize. Measure. Improve.
 </p>
-
-https://raw.githubusercontent.com/crtyydk-1/crtyydk-1/output/github-snake.svg
