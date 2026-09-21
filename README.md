@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e2327,100:0e75b6&height=180&section=header&text=CRTY&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=AI%20Apps%20%E2%80%A2%20Windows%20Optimization%20%E2%80%A2%20Desktop%20%26%20Web&descAlignY=60&descSize=18" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:132405,50:3c7c11,100:6fa71f&height=180&section=header&text=CRTY&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=AI%20Apps%20%E2%80%A2%20Windows%20Optimization%20%E2%80%A2%20Desktop%20%26%20Web&descAlignY=60&descSize=18" width="100%"/>
 </p>
 
 <h1 align="center">CRTY</h1>
