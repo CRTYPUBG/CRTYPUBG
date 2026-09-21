@@ -1,7 +1,8 @@
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:132405,50:3c7c11,100:6fa71f&amp;height=180&amp;section=header&amp;text=CRTY&amp;fontSize=45&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=40&amp;desc=AI%20Apps%20%E2%80%A2%20Windows%20Optimization%20%E2%80%A2%20Desktop%20%26%20Web&amp;descAlignY=60&amp;descSize=18"
+    src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:132405,50:3c7c11,100:6fa71f&amp;height=180&amp;section=header&amp;text=CRTY&amp;fontSize=45&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=40"
     width="100%"
+    alt="CRTY"
   />
 </p>
 
