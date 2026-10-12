@@ -89,7 +89,7 @@ Building AI-powered applications, Windows optimization tools, desktop software, 
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/CRTYPUBG/CRTYPUBG/output/github-contribution-grid-snake.svg"
+    src="https://raw.githubusercontent.com/CRTYPUBG/CRTYPUBG/output/github-snake.svg"
     alt="Contribution snake animation"
   />
 </p>
