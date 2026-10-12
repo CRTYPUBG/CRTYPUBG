@@ -97,10 +97,13 @@ Building AI-powered applications, Windows optimization tools, desktop software, 
 ---
 
 # 👀 Profile Views
+
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=CRTYPUBG&label=Profile%20Views&style=for-the-badge&color=0e75b6"/>
 </p>
+
 ---
+
 
 ## 🤝 Organizations
 
