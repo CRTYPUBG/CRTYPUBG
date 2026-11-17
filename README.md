@@ -31,12 +31,13 @@ Building AI-powered applications, Windows optimization tools, desktop software, 
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
   <a href="https://t.me/+KA9ZLpJDnxoyYjVk">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
-  </a>
-    <a href="https://www.deeplearning.ai/u/01M7MXT3EFDVGE5721X9X7JT08?usp=sharing">
-    <img src="https://img.shields.io/badge/deeplearning-26A5E4?style=for-the-badge&logo=deeplearning&logoColor=white"/>
-  </a>
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/
+ </a>
+<a href="https://www.deeplearning.ai/u/01M7MXT3EFDVGE5721X9X7JT08?usp=sharing">
+  <img src="https://img.shields.io/badge/DeepLearning.AI-FF4B63?style=for-the-badge&logo=deeplearning&logoColor=white" alt="DeepLearning.AI"/>
+</a>
 </p>
+
 
 ---
 
