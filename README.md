@@ -33,6 +33,9 @@ Building AI-powered applications, Windows optimization tools, desktop software, 
   <a href="https://t.me/+KA9ZLpJDnxoyYjVk">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
+    <a href="https://www.deeplearning.ai/u/01M7MXT3EFDVGE5721X9X7JT08?usp=sharing">
+    <img src="https://img.shields.io/badge/deeplearning-26A5E4?style=for-the-badge&logo=deeplearning&logoColor=white"/>
+  </a>
 </p>
 
 ---
